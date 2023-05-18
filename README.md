@@ -4,3 +4,4 @@
 <pre><code>$pip install django==2.2.28</code></pre>
 <pre><code>$pip install pillow</code></pre>
 <pre><code>$pip install -U django-registration-redux==2.2</code></pre>
+<pre><code>$pip install requests</code></pre>
